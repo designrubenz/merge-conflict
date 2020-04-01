@@ -2,4 +2,4 @@ Hallo!
 
 Frohe Ostern!
 
-I love Eierlikör!
+I love Schokoeier!
